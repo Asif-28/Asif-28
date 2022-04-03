@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Asif Ali
+- 👀 I’m interested in Web Development 
+- 🌱 I’m currently learning React JS and React Native 
+- 💞️ I’m looking to collaborate on Open Source Project 
+- 📫 How to reach me [LinkedIn](https://linkedin.com/in/asif-ali-302649236)
