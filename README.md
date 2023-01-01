@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Asif Ali
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently Doing Reactjs Nextjs and Flutter
+- 🌱 I’m currently Doing Reactjs Nextjs and Nodejs
 - 💞️ I’m looking to collaborate on Open Source Project 
 - 📫 How to reach me [LinkedIn](https://linkedin.com/in/asif-ali-302649236)
