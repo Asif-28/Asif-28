@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">A computer science engineer from Kolkata , India . I'm a full stack web developer. I love writing reactjs, node, tailwind, nextjs.</h3>
+<h3 align="center">A computer science engineer from Kolkata, India. I'm a full stack web developer. I love writing reactjs, node, tailwind, nextjs.</h3>
 
-- 🌱 I’m currently learning **Nextjs,Nodejs,React Native**
+- 🌱 I’m currently learning **Nextjs, Nodejs, React Native**
 
 - 📫 How to reach me **asif.a.7277@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Asif Ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif ali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asif-ali-302649236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asif ali" height="30" width="40" /></a>
+<a href="https://www.instagram.com/asif.a_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="asif.a_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
