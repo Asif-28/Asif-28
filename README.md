@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">A computer science engineer from Kolkata, India. I'm a full stack web developer. I love writing reactjs, node, tailwind, nextjs.</h3>
+
 
 # 💫 About Me:
 A computer science engineer from Kolkata, India. I'm a full stack web developer. I love writing reactjs, node, tailwind, nextjs<br><br>🌱 I’m currently learning Nextjs, Nodejs, React Native<br>📫 How to reach me asif.a.7277@gmail.com
