@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-A computer science engineer from Kolkata, India. I'm a full stack web developer. I love writing reactjs, node, tailwind, nextjs<br><br>🌱 I’m currently learning Nextjs, Nodejs, React Native<br>📫 How to reach me asif.a.7277@gmail.com
+Full-stack Developer<br><br>🌱 Ex Intern Q&Q MR (Remote)<br>📫 How to reach me asif.a.7277@gmail.com
 
 
 ## 🌐 Socials:
