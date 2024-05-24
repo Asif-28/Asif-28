@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Full-stack Developer<br><br>🌱 Learning React Bative and Go<br>📫 How to reach me asif.a.7277@gmail.com
+Full-stack Developer<br>🌱 Learning React Native and Go<br>Passionate about technology<br>📫 How to reach me asif.a.7277@gmail.com
 
 
 ## 🌐 Socials:
